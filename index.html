@@ -22,10 +22,12 @@
             </nav>
         </div>
     </div>
+
     <!-- Replace the existing button with this -->
     <button id="darkToggle" class="btn btn-dark" style="position:absolute; top:20px; right:20px;">
     <i class="fas fa-moon"></i>
     </button>
+
     <!-- Showcase -->
     <section class="showcase">
         <div class="container grid">
@@ -53,7 +55,12 @@
                     </div>
                     <input type="submit" value="Send" class="btn btn-primary">
                 </form> -->
-                 <form>
+                 <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                    <input type="hidden" name="form-name" value="contact">
+                    <p class="hidden">
+                    <label>Don't fill this out if you're human: <input
+                    name="bot-field" /></label>
+                    </p>
                     <div class="form-control">
                         <input type="text" name="name" placeholder="Name" required>
                     </div>
