@@ -1,6 +1,3 @@
-Here’s your updated `README.md` with the Netlify live demo link added:
-
-```markdown
 # 🌐 Loruki Website - With Dark Mode
 
 A modern, responsive front-end web hosting company landing page built from scratch using HTML, CSS, and a touch of JavaScript — originally created by [Brad Traversy](https://github.com/bradtraversy/loruki-website).  
