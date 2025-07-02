@@ -7,7 +7,7 @@ A modern, responsive front-end web hosting company landing page built from scrat
 
 ## 📸 Preview
 
-![Loruki Dark Mode Preview](preview-darkmode.png)  
+![Loruki Dark Mode Preview](https://poetic-sorbet-e2118d.netlify.app/)  
 *A glimpse of the dark mode in action (screenshot)*
 
 ---
